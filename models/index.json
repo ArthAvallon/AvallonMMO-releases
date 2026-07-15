@@ -1,5 +1,1 @@
-tl/
-    state.mpk
-    state_classes.txt
-index.json:
 { "models": [ { "id": "tl", "name": "Throne and Liberty (Oficial)" } ] }
