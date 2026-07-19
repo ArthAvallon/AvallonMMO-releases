@@ -1,3 +1,4 @@
 ativa
 cooldown
+nada
 pronta
